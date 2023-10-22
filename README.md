@@ -120,3 +120,9 @@ pnpm serve
 ```
 
 Then visit [http://localhost:3000/](http://localhost:3000/)
+
+## Static Site Generator (Node.js)
+
+```shell
+pnpm build.server
+```
